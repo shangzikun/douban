@@ -1,0 +1,114 @@
+[ 2018-05-26T14:47:27+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/skin/layer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T14:47:27+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T14:50:39+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/skin/layer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002139s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T14:50:39+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:00:34+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/skin/layer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:00:34+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:02:20+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/skin/layer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000311s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007104s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:02:20+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:02:21+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/skin/layer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001527s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:02:21+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000568s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006519s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:58:50+08:00 ] 127.0.0.1 /Public/upload/2018-05-26/5b0911ef75268.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002268s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:59:03+08:00 ] 127.0.0.1 /Public/upload/goods/2018-05-26/5b091343ae171.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002656s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:59:03+08:00 ] 127.0.0.1 /Public/upload/good/2018-05-26/5b0913b930c88.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:59:03+08:00 ] 127.0.0.1 /Public/upload/2018-05-26/5b0911ef75268.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002014s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:59:12+08:00 ] 127.0.0.1 /Public/upload/2018-05-26/5b0911ef75268.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:59:12+08:00 ] 127.0.0.1 /Public/upload/good/2018-05-26/5b0913b930c88.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T15:59:12+08:00 ] 127.0.0.1 /Public/upload/goods/2018-05-26/5b091343ae171.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004639s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T16:06:58+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/extend/layer.ext.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+ERR: 无法加载模块:Public
+
+[ 2018-05-26T16:06:59+08:00 ] 127.0.0.1 /Public/admin/assets/js/plugins/layer/skin/layer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:Public
+

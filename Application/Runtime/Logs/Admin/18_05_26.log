@@ -1,0 +1,2776 @@
+[ 2018-05-26T14:47:27+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000351s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000434s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001592s ]
+
+[ 2018-05-26T14:47:27+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002027s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000597s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002622s ]
+
+[ 2018-05-26T14:47:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-05-26T14:47:32+08:00 ] 127.0.0.1 /index.php/Admin/Category/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2018-05-26T14:50:39+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001369s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000415s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003931s ]
+
+[ 2018-05-26T14:50:39+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002535s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000264s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000356s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003769s ]
+
+[ 2018-05-26T14:50:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008862s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008992s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0315s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000349s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000786s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004190s ]
+
+[ 2018-05-26T14:50:44+08:00 ] 127.0.0.1 /index.php/Admin/Category/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1146:Table 'douban.category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `category`
+ERR: 1146:Table 'douban.category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `category`
+
+[ 2018-05-26T15:00:34+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001099s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000566s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002242s ]
+
+[ 2018-05-26T15:00:34+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000858s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001291s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002005s ]
+
+[ 2018-05-26T15:00:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003427s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined variable: where E:\xampp\htdocs\douban\Application\Admin\Controller\CommonController.class.php 第 33 行.
+ERR: Think\Model:getList方法不存在！
+
+[ 2018-05-26T15:00:40+08:00 ] 127.0.0.1 /index.php/Admin/Category/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1146:Table 'douban.category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `category`
+ERR: 1146:Table 'douban.category' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `category`
+
+[ 2018-05-26T15:02:20+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000252s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018213s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013450s ]
+
+[ 2018-05-26T15:02:20+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002606s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075470s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001483s ]
+
+[ 2018-05-26T15:02:21+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000307s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000390s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004158s ]
+
+[ 2018-05-26T15:02:21+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000450s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000804s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002077s ]
+
+[ 2018-05-26T15:02:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?v=4.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2018-05-26T15:02:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=1&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0484s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000667s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2018-05-26T15:03:19+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=1&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0713s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000695s ]
+
+[ 2018-05-26T15:03:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=1&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0515s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026924s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2018-05-26T15:04:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=11&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0693s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000580s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2018-05-26T15:05:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001433s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023333s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004916s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001723s ]
+
+[ 2018-05-26T15:05:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=11&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2018-05-26T15:11:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=11&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002463s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016074s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003231s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001268s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2018-05-26T15:11:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001978s ]
+
+[ 2018-05-26T15:11:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=11&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0688s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2018-05-26T15:12:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=1&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0629s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2018-05-26T15:12:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=1&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `goods` WHERE `title` = '1' LIMIT 0,20   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000687s ]
+
+[ 2018-05-26T15:12:29+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=11&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `goods` WHERE `title` = '11' LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016585s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2018-05-26T15:12:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=&status=all
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2018-05-26T15:12:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=&status=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000118s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2018-05-26T15:12:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `goods` WHERE `status` = 1 LIMIT 0,20   [ RunTime:0.0430s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2018-05-26T15:13:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=&status=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004395s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001455s ]
+
+[ 2018-05-26T15:18:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=&status=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0493s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001088s ]
+
+[ 2018-05-26T15:18:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=1&status=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0622s ]
+SQL: SELECT * FROM `goods` WHERE `title` LIKE '%1%' LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011016s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011105s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2018-05-26T15:20:07+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001890s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001974s ]
+
+[ 2018-05-26T15:20:07+08:00 ] 127.0.0.1 /index.php/admin/goods/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2018-05-26T15:22:42+08:00 ] 127.0.0.1 /index.php/admin/goods/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:doadd
+
+[ 2018-05-26T15:30:25+08:00 ] 127.0.0.1 /index.php/admin/goods/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005367s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined variable: save E:\xampp\htdocs\douban\Application\Admin\Controller\GoodsController.class.php 第 36 行.
+
+[ 2018-05-26T15:30:47+08:00 ] 127.0.0.1 /index.php/admin/goods/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : INSERT INTO `` (`title`,`price`) VALUES ('33','30')
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : INSERT INTO `` (`title`,`price`) VALUES ('33','30')
+
+[ 2018-05-26T15:31:38+08:00 ] 127.0.0.1 /index.php/admin/goods/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005292s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : INSERT INTO `` (`title`,`price`) VALUES ('33','30')
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : INSERT INTO `` (`title`,`price`) VALUES ('33','30')
+
+[ 2018-05-26T15:33:46+08:00 ] 127.0.0.1 /index.php/admin/goods/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003389s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : INSERT INTO `` (`title`,`price`) VALUES ('33','30')
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : INSERT INTO `` (`title`,`price`) VALUES ('33','30')
+
+[ 2018-05-26T15:35:04+08:00 ] 127.0.0.1 /index.php/admin/goods/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2018-05-26T15:36:04+08:00 ] 127.0.0.1 /index.php/admin/goods/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001214s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2018-05-26T15:37:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=1&status=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `goods` WHERE `title` LIKE '%1%' LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003124s ]
+
+[ 2018-05-26T15:37:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html?name=&status=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000617s ]
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000818s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000873s ]
+
+[ 2018-05-26T15:37:47+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2018-05-26T15:38:08+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004797s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0624s ]
+
+[ 2018-05-26T15:38:38+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0106s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`image`) VALUES ('33','30','') [ RunTime:0.1091s ]
+
+[ 2018-05-26T15:38:49+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0177s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`image`) VALUES ('33','30','') [ RunTime:0.0935s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2018-05-26T15:38:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013340s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2018-05-26T15:39:00+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002686s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000844s ]
+
+[ 2018-05-26T15:39:06+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0611s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`image`) VALUES ('44','40','') [ RunTime:0.0475s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006754s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000941s ]
+
+[ 2018-05-26T15:39:07+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0366s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014184s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2018-05-26T15:40:10+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002484s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2018-05-26T15:40:20+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-05-26T15:50:38+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\douban\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2018-05-26T15:51:11+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\douban\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0264s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`image`) VALUES ('','','upload/2018-05-26/5b0911ef75268.png') [ RunTime:0.0657s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010108s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002593s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001747s ]
+
+[ 2018-05-26T15:51:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0274s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013100s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001681s ]
+
+[ 2018-05-26T15:52:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 79 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001157s ]
+
+[ 2018-05-26T15:52:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/upload/2018-05-26/5b0911ef75268.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2018-05-26T15:53:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005626s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017181s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001558s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001681s ]
+
+[ 2018-05-26T15:54:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001423s ]
+
+[ 2018-05-26T15:56:46+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015363s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001109s ]
+
+[ 2018-05-26T15:56:51+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001383s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\douban\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0060s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`image`) VALUES ('','','upload/goods/2018-05-26/5b091343ae171.png') [ RunTime:0.0801s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023722s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003157s ]
+
+[ 2018-05-26T15:56:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001200s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0529s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001898s ]
+
+[ 2018-05-26T15:58:44+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000202s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001194s ]
+
+[ 2018-05-26T15:58:49+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\douban\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0088s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`image`) VALUES ('','','upload/good/2018-05-26/5b0913b930c88.png') [ RunTime:0.1100s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021024s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002612s ]
+
+[ 2018-05-26T15:58:50+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014173s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001587s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001684s ]
+
+[ 2018-05-26T15:59:03+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008280s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001189s ]
+
+[ 2018-05-26T15:59:06+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000998s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002272s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2018-05-26T15:59:11+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\douban\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0109s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`image`) VALUES ('','','upload/good/2018-05-26/5b0913cf3437f.png') [ RunTime:0.1660s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015070s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001990s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002144s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002193s ]
+
+[ 2018-05-26T15:59:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002141s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined index: major_id E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: cates E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 68 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002902s ]
+
+[ 2018-05-26T16:00:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001699s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001159s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001203s ]
+
+[ 2018-05-26T16:06:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002893s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001216s ]
+
+[ 2018-05-26T16:06:58+08:00 ] 127.0.0.1 /admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020067s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005604s ]
+
+[ 2018-05-26T16:06:58+08:00 ] 127.0.0.1 /index.php/Admin/index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002132s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000631s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000970s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.016722s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016808s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002118s ]
+
+[ 2018-05-26T16:17:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 79 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000908s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001133s ]
+
+[ 2018-05-26T16:17:30+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000658s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001088s ]
+
+[ 2018-05-26T16:22:59+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010792s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001123s ]
+
+[ 2018-05-26T16:23:46+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013665s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001105s ]
+
+[ 2018-05-26T16:24:06+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001187s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001603s ]
+
+[ 2018-05-26T16:40:43+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002451s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined variable: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042062s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011349s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014551s ]
+
+[ 2018-05-26T16:45:04+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001454s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined variable: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013499s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001478s ]
+
+[ 2018-05-26T16:53:15+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined variable: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013654s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013733s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001096s ]
+
+[ 2018-05-26T16:54:05+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001637s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002389s ]
+
+[ 2018-05-26T16:54:29+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0283s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined variable: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001094s ]
+
+[ 2018-05-26T16:54:30+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined variable: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 59 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001659s ]
+
+[ 2018-05-26T16:56:05+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001401s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0005s ]
+
+[ 2018-05-26T16:56:51+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: tag E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 61 行.
+NOTIC: [8] Undefined index: tag E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 61 行.
+NOTIC: [8] Undefined index: tag E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 61 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012822s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001650s ]
+
+[ 2018-05-26T16:57:18+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined index: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 61 行.
+NOTIC: [8] Undefined index: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 61 行.
+NOTIC: [8] Undefined index: tags E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\346dfcdf6ec8d3c93d33b5eb4f636a21.php 第 61 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018982s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001523s ]
+
+[ 2018-05-26T16:57:48+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002915s ]
+
+[ 2018-05-26T16:59:41+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\douban\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0058s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`desc`,`content`,`image`) VALUES ('1','30','','','upload/good/2018-05-26/5b0921fd5eac3.png') [ RunTime:0.0749s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001132s ]
+
+[ 2018-05-26T16:59:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+
+[ 2018-05-26T17:00:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 79 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014196s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001042s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001083s ]
+
+[ 2018-05-26T17:02:48+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001713s ]
+
+[ 2018-05-26T17:02:51+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002067s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-05-26T17:03:52+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] explode() expects parameter 2 to be string, array given E:\xampp\htdocs\douban\Application\Admin\Controller\GoodsController.class.php 第 35 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0064s ]
+ERR: 1048:Column 'tag_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `goods` (`title`,`price`,`desc`,`content`,`image`,`tag_id`) VALUES ('','','','','',NULL)
+ERR: 1048:Column 'tag_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `goods` (`title`,`price`,`desc`,`content`,`image`,`tag_id`) VALUES ('','','','','',NULL)
+
+[ 2018-05-26T17:04:46+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001720s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0084s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`desc`,`content`,`image`,`tag_id`) VALUES ('','','','','','1') [ RunTime:0.0906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000895s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001121s ]
+
+[ 2018-05-26T17:04:48+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002088s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 79 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011924s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001188s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001238s ]
+
+[ 2018-05-26T17:05:00+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2018-05-26T17:05:03+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0056s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`desc`,`content`,`image`,`tag_id`) VALUES ('','','','','','1') [ RunTime:0.0527s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002783s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002856s ]
+
+[ 2018-05-26T17:05:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001510s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 79 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002551s ]
+
+[ 2018-05-26T17:05:44+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002152s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013903s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001788s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001782s ]
+
+[ 2018-05-26T17:05:47+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-05-26T17:06:44+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001556s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0047s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`desc`,`content`,`image`,`tag_id`) VALUES ('','','','','','1,2') [ RunTime:0.1391s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001688s ]
+
+[ 2018-05-26T17:06:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002426s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.1556s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 79 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002712s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002796s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002538s ]
+
+[ 2018-05-26T17:08:35+08:00 ] 127.0.0.1 /index.php/admin/goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002673s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `tag` LIMIT 0,20   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001235s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001417s ]
+
+[ 2018-05-26T17:08:46+08:00 ] 127.0.0.1 /index.php/admin/goods/doAdd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\douban\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0060s ]
+SQL: INSERT INTO `goods` (`title`,`price`,`desc`,`content`,`image`,`tag_id`,`createtime`,`updatetime`) VALUES ('2','22','2','2','upload/good/2018-05-26/5b09241e57492.png','1,3','2018-05-26 17:08:46','2018-05-26 17:08:46') [ RunTime:0.0695s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008188s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2018-05-26T17:08:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003765s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0858s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 73 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 79 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001372s ]
+
+[ 2018-05-26T17:18:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001573s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: tag E:\xampp\htdocs\douban\Application\Admin\Controller\GoodsController.class.php 第 21 行.
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: tag E:\xampp\htdocs\douban\Application\Admin\Controller\GoodsController.class.php 第 21 行.
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: tag E:\xampp\htdocs\douban\Application\Admin\Controller\GoodsController.class.php 第 21 行.
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: tag E:\xampp\htdocs\douban\Application\Admin\Controller\GoodsController.class.php 第 21 行.
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: tag E:\xampp\htdocs\douban\Application\Admin\Controller\GoodsController.class.php 第 21 行.
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2018-05-26T17:21:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002283s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+
+[ 2018-05-26T17:22:36+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001850s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0005s ]
+
+[ 2018-05-26T17:22:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001983s ]
+
+[ 2018-05-26T17:23:35+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0006s ]
+
+[ 2018-05-26T17:23:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0008s ]
+
+[ 2018-05-26T17:24:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001981s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-05-26T17:25:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2018-05-26T17:27:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-05-26T17:28:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-05-26T17:28:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lists.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\douban\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `goods` LIMIT 0,20   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `tag` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 0 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 2 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `tag` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 32 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 38 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 39 行.
+NOTIC: [8] Undefined index: status E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 40 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined index: handle E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 75 行.
+NOTIC: [8] Undefined variable: page E:\xampp\htdocs\douban\Application\Runtime\Cache\Admin\01ea1095153273d82c3a5707a91462bc.php 第 81 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000642s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
