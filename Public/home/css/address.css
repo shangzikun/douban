@@ -142,3 +142,67 @@
 .form-group>select:focus {
 	outline: none;
 }
+.oid-address {
+	font-size: 0;
+	background-color: #f7f7f7;
+}
+.oid-address>p {
+    color: #9a9a9a;
+	font-size: 0.16rem;
+	padding: 0.12rem 0.15rem;
+}
+.goods-address {
+	position: relative;
+	font-size: 0;
+	background: #fff;
+	border: 2px solid #0aa082;
+	width: 100%;
+	box-sizing:border-box;
+	padding: 0.15rem 0.15rem 0.15rem 0.2rem;
+}
+.goods-address>p {
+	display: block;
+	font-size:0.12rem; 
+	width: 100%;
+	color: #505050;
+	margin-top: 0.06rem;
+    background-color: #fff;
+}
+.goods-address>p>span {
+	font-size: 0.13rem;
+	font-weight: 525;
+}
+.goods-address>p:first-child {
+	padding-bottom: 0.06rem;
+    border-bottom: 1px solid #e4e4e4;
+    font-size: 0.14rem;
+}
+.goods-address>i {
+	position: absolute;
+	right: 0.13rem;
+	font-size: 0.20rem;
+	color: #e4e4e4;
+	top: 0.35rem;
+}
+.add-address {
+	font-size: 0;
+	padding-top: 0.15rem;
+}
+.add-address>a {
+	font-size: 0.12rem;
+	color: #ff966b;
+	margin-right: 0.2rem;
+	vertical-align: bottom;
+}
+.add-address>a:not(:last-child) {
+	position: relative;
+	top: 0.02rem;
+}
+.add-address>a:last-child {
+	float: right;
+	display: inline-block;
+	padding: 0.02rem 0.1rem;
+	color: #fff;
+	margin-right: 0;
+    background-color: #f05f50; 
+}
