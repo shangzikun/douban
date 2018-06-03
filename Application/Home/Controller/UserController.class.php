@@ -13,13 +13,14 @@ class UserController extends Controller {
 		}
 		$data = D('User')->getInfoByPhone($phone);
 		if (!$data) {
-			$this->error('用户名不存在',U('Home/User/login'))
+			$this->error('用户名不存在',U('Home/User/login'));
 		}
 		if ($password !== $data['password']) {
 			$this->error('密码错误',U('Home/User/login'));
 		}
 		if ($data){
-			$_SESSION['me'] =$data; 
+			unset($data['password']);
+			$_SESSION['me'] =$data;
 			$this->success('登陆成功',U('Home/index/index'));
 		}
 		

@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="__PUBLIC__/home/css/info.css">
 	<link rel="stylesheet" href="__PUBLIC__/home/css/iconfont.css">
 	<script src="__PUBLIC__/home/js/jquery-3.2.0.min.js"></script>
+	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
 </head>
 <body>
 	<div class="info-tal">
@@ -52,8 +53,9 @@
 				<p>数量：</p>
 				<div class="intro-jinumber">
 					<input id="min" name="" type="button" value="-" / style="border: none; background-color: #f7f7f7;"> 
-					<input id="text_box" name="" type="text" value="1" style="width:30px;text-align: center;border:none"/> 
+					<input id="text_box" class="num" name="num" type="text" value="1" style="width:30px;text-align: center;border:none"/> 
 					<input id="add" name="" type="button" value="+" / style="border: none; background-color: #f7f7f7;"> 
+					<input type="hidden" class="goods_id" name="id" value="{$info['id']}">
 				</div>
 			</div>
 		</div>
@@ -61,8 +63,8 @@
 			<div><a href="javascript:void(0)">
 				<i class="iconfont">&#xe647;</i><sup>0</sup>
 			</a></div>
-			<a href="javascript:void(0)">加入购物车</a>
-			<a href="javascript:void(0)" >立即购买</a>
+			<a href="javascript:void(0)" class="cart">加入购物车</a>
+			<a href="javascript:void(0)" class="pay">立即购买</a>
 		</div>
 	</div>
 	<div class="box-fixed">
@@ -92,6 +94,48 @@
         	$(".doun").removeClass("makeshow");
         }
       })
+	</script>
+	<script type="text/javascript">
+    $(function(){
+        $('.cart').click(function(){
+            var gid = $('.goods_id').val();
+            var num = $('.num').val();
+            $.ajax({
+                url     : "{:U('home/Cart/addCart')}",
+                type    : "post",
+                dataType : "json",
+                data    : {goods_id:gid,num:num},
+                success : function(res) {
+                	if (res.error_no == 0) {
+                		window.location.href="{:U('Home/index/index')}";
+                	} else {
+                		alert(res.msg);
+                	}
+                    console.log(res);
+                }
+            });
+        });
+
+        $('.pay').click(function(){
+            var gid = $('.goods_id').val();
+            var num = $('.num').val();
+            $.ajax({
+                url     : "{:U('home/order/orderTmp')}",
+                type    : "post",
+                dataType : "json",
+                data    : {goods_id:gid,num:num},
+                success : function(res) {
+                    if (res.error_no != 0) {
+                        alert(res.msg);
+                    } else {
+						window.location.href="/index.php/home/order/confirmOrder?oid="+res.data.oid;
+                    }
+                    
+                }
+            });
+            return false;
+        });
+    })
 	</script>
 </body>
 </html>
