@@ -54,4 +54,13 @@ class UserController extends Controller {
 			$this->success('注册成功',U('Home/User/login'));
 		}
 	}
+	public function userInfo() {
+		if(empty($_SESSION['me']['id'])){
+			$this->error('请登录',U('Home/User/login'));
+		}
+		$userId = $_SESSION['me']['id'];
+		$userInfo = D('User')->getBasicInfo($userId);
+		$this->assign('userInfo',$userInfo);
+		$this->display();
+	}
 }

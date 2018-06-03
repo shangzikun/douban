@@ -33,7 +33,7 @@
 		<volist name="list" id="vo">
 			<div class="cars-buy clearfix">
 				<div class="cars-list">
-					<label class="labelId" for="regular" style="margin: 0 auto; vertical-align: middle; ">
+					<label class="labelId" for="regular" style="margin: 0 auto; vertical-align: middle; " ral="{$vo.id}" >
 					    <checkbox id="regular"/>
 					</label>
 				</div>
@@ -70,5 +70,34 @@
 		</div>
 	</div>
 	<script src="__PUBLIC__/Home/js/cars.js"></script>
+	<script type="text/javascript">
+	$(function(){
+			$('.car-true').click(function(){
+				//var cartId = '[17,18]';
+				var cartId = [];
+				$('.label-select').each(function(){
+					var id = $(this).attr('ral')
+					cartId.push(id);
+				});
+			
+				$.ajax({
+					url 	 : "{:U('Home/order/ordertmp')}",
+					type 	 : "post",
+					dataType : "json",
+					data 	 : {cart:cartId},
+					success  : function(res) {
+						console.log(res);
+						if (res.error_no == 0) {
+							window.location.href = "/index.php/Home/order/confirmOrder?oid="+res.data.oid;
+							// console.log(res);
+						} else {
+							alert(res.msg);
+						}
+					}
+				});
+			});
+		})
+
+	</script>
 </body>
 </html>

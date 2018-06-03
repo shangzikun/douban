@@ -27,15 +27,15 @@
 	</div>
 	<div class="oid-things">
 	    <p class="new-oid">豆瓣市集</p>
-	    <?php foreach($oid as $key => $value) { ?>
+	    <?php foreach($orderInfo as $key => $value) { ?>
 		<div class="list-img clearfix ">
-			<img src="__PUBLIC__/home/images/p1956124.jpg" alt="">
+			<img src="__PUBLIC__/{$value['image']}" alt="">
 			<div class="img-about">
-				<p>豆瓣收藏夹</p>
+				<p>{$value['title']}</p>
 				<span class="oid-exp">森林绿</span>
 				<p>
-					<span>{$list['goods_info']['goods_num']}</span>
-					<span>￥99.00 * 1</span>
+					<span>数量：{$value['goods_num']}</span>
+					<span>￥{$value['price']}*{$value['goods_num']}</span>
 				</p>
 			</div>
 		</div>
