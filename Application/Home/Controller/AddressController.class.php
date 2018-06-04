@@ -8,6 +8,17 @@ class AddressController extends Controller {
 		$this->display();
 	}
 	public function doAdd(){
-
+		$data = array(
+		'name' => I('post.name'),
+		'phone' => I('post.phone'),
+		'province' =>I('post.province'),
+		'city'	=>I('post.city'),
+		'area'=>I('post.area'),
+		'createtime'=>date('Y-m-d H:i:s'),
+        'updatetime'=>date('Y-m-d H:i:s'),
+		);
+		var_dump($data);
+		die();
+		$status = D('Address')->add($data);
 	}
 }
