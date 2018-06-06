@@ -7,7 +7,6 @@ class GoodsController extends CommonController {
         //拼where
         $name = I('get.name','');
         $status = I('get.status','all');
-        var_dump($status);
         $where = array();
         if(!empty($name)) {
             $where['title']=array('like',"%{$name}%");

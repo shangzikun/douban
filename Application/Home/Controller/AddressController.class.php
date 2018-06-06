@@ -9,11 +9,13 @@ class AddressController extends Controller {
 	}
 	public function doAdd(){
 		$data = array(
+		'user_id'=>$_SESSION['me']['id'],
 		'name' => I('post.name'),
 		'phone' => I('post.phone'),
 		'province' =>I('post.province'),
 		'city'	=>I('post.city'),
 		'area'=>I('post.area'),
+		'address'=>I('post.address'),
 		'createtime'=>date('Y-m-d H:i:s'),
         'updatetime'=>date('Y-m-d H:i:s'),
 		);

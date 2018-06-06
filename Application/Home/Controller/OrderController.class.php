@@ -47,6 +47,7 @@ class OrderController extends Controller {
 		$oid = I('get.oid','');
 		$list = D('orderTmp')->getbasicInfo($oid);
 		$orderInfo =json_decode($list['goods_info'],true);
+		$address = D()->
 		//遍历商品详细信息
 		foreach ($orderInfo as $key => $value) {
 			$goodsInfo = D('Goods')->getbasicInfo($orderInfo[$key]['goods_id']);
