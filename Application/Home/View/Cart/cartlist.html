@@ -40,7 +40,7 @@
 				<div class="car-list">
 					<img src="__PUBLIC__/{$vo['goods_img']}" alt="">
 					<div class="cars-content">
-						<p> {$vo.goods_name} <a href="javascript:void(0)" class="deleta">删除</a></p>
+						<p> {$vo.goods_name} <a href="{:U('Home/Cart/delete',array('id'=>$vo['id']))}" class="delete">删除</a></p>
 						<p class="p-cars">{$vo['goods_name']}</p>
 						<div class="intro-jinumber">
 							<input class="min" name="" type="button" value="-" / style="border: none; background-color: #f7f7f7;"> 

@@ -47,12 +47,13 @@ class OrderController extends Controller {
 		$oid = I('get.oid','');
 		$list = D('orderTmp')->getbasicInfo($oid);
 		$orderInfo =json_decode($list['goods_info'],true);
-		$address = D()->
 		//遍历商品详细信息
 		foreach ($orderInfo as $key => $value) {
 			$goodsInfo = D('Goods')->getbasicInfo($orderInfo[$key]['goods_id']);
 			$orderInfo[$key] = array_merge($orderInfo[$key],$goodsInfo);
 		}
+		$address = D('Address')->where(array('user_id'=>$_SESSION['me']['id']))->select();
+		$this->assign('address',$address);
 		$this->assign('orderInfo',$orderInfo);
 		$this->display();
 	}

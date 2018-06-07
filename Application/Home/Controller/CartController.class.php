@@ -52,4 +52,11 @@ class CartController extends Controller {
         die();      
        	}      	
     }
+  public function delete() {
+    $id = I('get.id','');
+    $status = D('Cart')->where(array('id'=>$id))->delete();
+    if ($status) {
+      $this->success('删除成功',U('Home/Cart/cartList'));
+    }
+  }
 }

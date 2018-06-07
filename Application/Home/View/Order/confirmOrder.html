@@ -10,21 +10,23 @@
 	<script src="__PUBLIC__/home/js/jquery-3.2.0.min.js"></script>
 </head>
 <body>
+	<?php foreach($address as $key=>$value) { ?>
 	<div class="oid-address">
 		<p>收货地址</p>
 		<div class="goods-address">
 			<p>
 				收货人：
 				<span>
-				   哈哈哈   13244236768
+				   {$value['name']}   {$value['phone']}
 				</span>
 			</p>
 			<p>
-				北京市/东城区/什么小区
+				{$value['province']}/{$value['city']}/{$value['area']}/{$value['address']}
 			</p>
 			<i class="iconfont">&#xe63b;</i>
 		</div>
 	</div>
+	<?php } ?>
 	<div class="oid-things">
 	    <p class="new-oid">豆瓣市集</p>
 	    <?php foreach($orderInfo as $key => $value) { ?>
