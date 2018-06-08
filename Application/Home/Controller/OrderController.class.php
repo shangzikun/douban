@@ -91,13 +91,12 @@ class OrderController extends Controller {
 			$orderInfo[$key] = array_merge($orderInfo[$key],$goodsInfo);
 			$money +=$goodsInfo['orderMoney'];
 		}
-
 		$orderData = array(
 			'user_id'=>$uid,
 			'money' =>$money,
 			'address_id'=>$aid,
-			'psy_type'=>$pid,
-			'creattime'=>date('Y-m-d H:i:s'),
+			'pay_type'=>$pid,
+			'createtime'=>date('Y-m-d H:i:s'),
 		);
 		//插入订单表
 		$orderId = D('order')->add($orderData);
