@@ -52,9 +52,86 @@ class OrderController extends Controller {
 			$goodsInfo = D('Goods')->getbasicInfo($orderInfo[$key]['goods_id']);
 			$orderInfo[$key] = array_merge($orderInfo[$key],$goodsInfo);
 		}
+
 		$address = D('Address')->where(array('user_id'=>$_SESSION['me']['id']))->select();
+		$pay_type = array(
+			array("id"=>1,'name'=>'余额支付'),
+			array("id"=>2,'name'=>'微信支付'),
+			array("id"=>3,'name'=>'支付宝支付'),
+		);
+		$this->assign('pay_type',$pay_type);
 		$this->assign('address',$address);
 		$this->assign('orderInfo',$orderInfo);
 		$this->display();
+	}
+	public function createOrder() {
+		$oid = I('post.oid');
+		$aid = I('post.aid');
+		$pid = I('post.pid');
+		$uid = $_SESSION['me']['id'];
+		$res = array(
+			'error_no'  => 0,
+			'msg'		=> '',
+			'data'		=> array()
+			);
+		if (empty($oid) || empty($pid) || empty($aid) || empty($uid) ) {
+			$res['error_no'] = 1;
+			$res['msg'] = "参数错误";
+			echo json_encodo($res);
+			die();
+		}
+		//遍历商品详细信息
+ 		$list = D('orderTmp')->getbasicInfo($oid);
+		$orderInfo =json_decode($list['goods_info'],true);	
+		//遍历商品  计算订单价格
+		$money = 0;
+		foreach ($orderInfo as $key => $value) {
+			$goodsInfo = D('goods')->getBasicInfo($orderInfo[$key]['goods_id']);
+			$goodsInfo['orderMoney'] = $value['goods_num'] * $goodsInfo['price'];
+			$orderInfo[$key] = array_merge($orderInfo[$key],$goodsInfo);
+			$money +=$goodsInfo['orderMoney'];
+		}
+
+		$orderData = array(
+			'user_id'=>$uid,
+			'money' =>$money,
+			'address_id'=>$aid,
+			'psy_type'=>$pid,
+			'creattime'=>date('Y-m-d H:i:s'),
+		);
+		//插入订单表
+		$orderId = D('order')->add($orderData);
+		if($orderData) {
+			foreach ($orderInfo as $key => $value) {
+				//插入订单商品表
+				$goodsData = array(
+					'order_id' =>$orderId,
+					'goods_id' =>$value['goods_id'],
+					'goods_price' =>$value['price'],
+					'goods_num' 	=> $value['goods_num'],
+					'order_money' 	=> $value['orderMoney'],
+					'createtime' 	=> date('Y-m-d H:i:s'),
+				);
+				$status = D('OrderGoods')->add($goodsData);
+			}
+			//事务，同时成功或失败
+			$db = M();
+			$db->startTrans();
+			$accountStatus = D('user')->handleAccount($uid,$money,2);
+			$orderStatus = D('order')->where(array('id'=>$orderId))->save(array('pay_status'=>1,'status'=>1));
+			if ($accountStatus && $orderStatus) {
+				$db->commit();  
+			} else {
+				$db->rollback();  
+			}
+		} else {
+			$res['error_no'] = 2;
+			$res['msg'] = "下单失败";
+			echo json_encode($res);
+			die();
+		}
+		$res['data']['id'] = $orderId;
+		echo json_encode($res);
+		die();
 	}
 }

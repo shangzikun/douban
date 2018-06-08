@@ -37,7 +37,7 @@
 				<span class="oid-exp">森林绿</span>
 				<p>
 					<span>数量：{$value['goods_num']}</span>
-					<span>￥{$value['price']}*{$value['goods_num']}</span>
+					<span>￥<?php echo $p = sprintf("%0.2f",$value['price']/100); ?> *{$value['goods_num']}</span>
 				</p>
 			</div>
 		</div>
@@ -72,20 +72,22 @@
 	</div>
 	<div class="oid-things oid-ways clearfix">
 	    <p>支付方式</p>
+	    <?php foreach($pay_type as $key=>$value) { ?>
 	    <div class="list-oid clearfix ways-list one-way">
 	    	<span>
                 <img src="__PUBLIC__/home/images/weixin.png" alt="">
-	    	    优惠券
+	    	    {$value['name']}
 	    	</span>
 	    	<span></span>
 	    </div>
-	    <div class="list-oid clearfix ways-list">
+	    <?php } ?>
+	   <!--  <div class="list-oid clearfix ways-list">
 	    	<span>
 	    	    <img src="__PUBLIC__/home/images/zhifubao.png" alt="">
 	    	   小计
 	    	</span>
 	    	<span></span>
-	    </div>
+	    </div> -->
 	</div>
 	<div class="coupon-box ppiao">
 		<div class="coupon-title">
@@ -211,12 +213,33 @@
 			<div class="all-select" style="font-size:0.14rem">
 				应付 : 
 			    <span class="select-show">
-				    <b>￥99.0</b>
+				    <b>￥{$orderInfo['goods_price']}</b>
 			    </span>
 			</div>
 			<a href="javascript:void(0)" class="car-newtrue"> 提交订单</a>
 		</div>
 	</div>
 	<script src="__PUBLIC__/home/js/oid.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$('.car-newtrue').click(function(){
+				var aid = 2;
+				var oid = {$_GET['oid']};
+				var pid = 1;
+
+				console.log(oid);
+				$.ajax({
+					url : "{:U('home/order/createOrder')}",
+					type : "post",
+					dataType : "json",
+					data : {aid:aid, oid:oid, pid:pid},
+					success : function(res) {
+						console.log(res);
+					}
+				});
+			});
+		})
+		
+	</script>
 </body>
 </html>
